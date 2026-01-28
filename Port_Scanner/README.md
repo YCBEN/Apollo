@@ -6,9 +6,8 @@ It contains the step-by-step development of a Python-based Port Scanner, evolvin
 ## 📌 Stages
 
 - Basic single-port check using sockets
-- Scan a range of ports
+- Scan a range of ports and Command-line arguments for flexibility
 - Identify services running on open ports
-- Command-line arguments for flexibility
 - Multi-threading for faster scans
 - Banner grabbing for service info
 - Save results to file (txt/JSON)
